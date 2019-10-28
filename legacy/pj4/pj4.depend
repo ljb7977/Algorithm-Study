@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1511889994 source:c:\users\jb\documents\codeblocks\pj4\cache.c
+	"cache.h"
+	"util.h"
+
+1511882228 c:\users\jb\documents\codeblocks\pj4\cache.h
+	<assert.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
+1511827541 c:\users\jb\documents\codeblocks\pj4\util.h
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"cache.h"
+
+1511768569 source:c:\users\jb\documents\codeblocks\pj4\parse.c
+	<stdio.h>
+	"util.h"
+	"parse.h"
+
+1511768569 c:\users\jb\documents\codeblocks\pj4\parse.h
+	<stdio.h>
+	"util.h"
+
+1511890287 source:c:\users\jb\documents\codeblocks\pj4\run.c
+	<stdio.h>
+	"util.h"
+	"run.h"
+
+1510659092 c:\users\jb\documents\codeblocks\pj4\run.h
+	<stdio.h>
+	"util.h"
+
+1511768569 source:c:\users\jb\documents\codeblocks\pj4\util.c
+	"util.h"
+
+1511883464 source:c:\users\jb\documents\codeblocks\pj4\cs311.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"util.h"
+	"parse.h"
+	"run.h"
+	"cache.h"
+

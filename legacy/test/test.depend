@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478429038 source:c:\users\ljb79\documents\codeblocks\test\main.cpp
+	<stdio.h>
+
+1506320266 source:c:\users\jb\documents\codeblocks\test\main.cpp
+	<cstdio>
+	<cstdlib>
+	<string>
+	<vector>
+	<cstring>
+	<iostream>
+

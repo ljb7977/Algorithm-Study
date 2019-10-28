@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453903092 source:c:\users\jubin\documents\codeblocks\tsp\main.cpp
+	<cstdio>
+	<cstdlib>
+	<vector>
+

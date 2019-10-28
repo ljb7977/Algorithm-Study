@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1358869790 source:c:\users\ljb79\documents\codeblocks\trans\cachelab.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"cachelab.h"
+	<time.h>
+
+1341863844 c:\users\ljb79\documents\codeblocks\trans\cachelab.h
+
+1478532642 source:c:\users\ljb79\documents\codeblocks\trans\trans.c
+	<stdio.h>
+	"cachelab.h"
+

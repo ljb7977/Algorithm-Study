@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505844811 source:c:\users\jb\documents\codeblocks\cpptest\main.cpp
+	<string>
+	<cstdio>
+

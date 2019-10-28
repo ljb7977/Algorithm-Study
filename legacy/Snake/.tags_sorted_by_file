@@ -1,0 +1,35 @@
+DOWN	main.c	10;"	d	file:
+ESC	main.c	12;"	d	file:
+LEFT	main.c	7;"	d	file:
+MAP_X	main.c	14;"	d	file:
+MAP_Y	main.c	15;"	d	file:
+PAUSE	main.c	11;"	d	file:
+RIGHT	main.c	8;"	d	file:
+UP	main.c	9;"	d	file:
+best_score	main.c	/^int best_score = 0; \/\/�ְ� ���� --reset�Լ��� ���� �ʱ�ȭ ���� ����$/;"	v
+dir	main.c	/^int dir; \/\/���� �̵� ����$/;"	v
+draw_map	main.c	/^void draw_map(void) { \/\/�� �׵θ� �׸��� �Լ�$/;"	f
+food_x	main.c	/^int food_x, food_y; \/\/food�� ��ǥ��$/;"	v
+food_y	main.c	/^int food_x, food_y; \/\/food�� ��ǥ��$/;"	v
+game	main.c	/^void game()$/;"	f
+game_over	main.c	/^void game_over(void) { \/\/�������� �Լ�$/;"	f
+gotoxy	main.c	/^void gotoxy(int x, int y, char* s) { \/\/x���� 2x�� ����, ��ǥ���� �ٷ� ���ڿ��� �Է��� �� �ֵ��� printf�Լ� ����$/;"	f
+key	main.c	/^int key; \/\/�Է¹��� Ű$/;"	v
+length	main.c	/^int length; \/\/�� ����$/;"	v
+main	main.c	/^int main() {$/;"	f
+make_food	main.c	/^void make_food(void) {$/;"	f
+move	main.c	/^int move(int dir) {$/;"	f
+pause	main.c	/^void pause(void) { \/\/ pŰ�� ������ ��� ������ �Ͻ� ����$/;"	f
+reset	main.c	/^void reset(void) {$/;"	f
+score	main.c	/^int score; \/\/����  --reset�Լ��� ���� �ʱ�ȭ��$/;"	v
+show_score	main.c	/^void show_score()$/;"	f
+show_title	main.c	/^void show_title(void) {$/;"	f
+speed	main.c	/^int speed; \/\/���� �ӵ�$/;"	v
+x	main.c	/^int x[100], y[100]; \/\/���� ��ǥ��, �ִ� 100��$/;"	v
+y	main.c	/^int x[100], y[100]; \/\/���� ��ǥ��, �ִ� 100��$/;"	v
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/

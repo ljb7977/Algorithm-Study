@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1451151858 source:c:\users\jubin\documents\codeblocks\dfsbfs\main.cpp
+	<cstdio>
+	<cstdlib>
+	<queue>
+	<stack>
+
