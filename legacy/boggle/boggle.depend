@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452750040 source:c:\users\jubin\documents\codeblocks\boggle\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
+1458378842 source:c:\users\ljb79\documents\codeblocks\boggle\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+

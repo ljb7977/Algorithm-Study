@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506790193 source:c:\users\jb\documents\codeblocks\battle\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1486821091 source:c:\users\ljb79\documents\codeblocks\hello\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1505755213 source:c:\users\jb\documents\codeblocks\hello\main.c
+	<stdio.h>
+

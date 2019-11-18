@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504345903 source:c:\users\jb\documents\codeblocks\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+

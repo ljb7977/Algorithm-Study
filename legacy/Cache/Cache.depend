@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1358869790 source:c:\users\ljb79\documents\codeblocks\cache\cachelab.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"cachelab.h"
+	<time.h>
+
+1341863844 c:\users\ljb79\documents\codeblocks\cache\cachelab.h
+
+1478618272 source:c:\users\ljb79\documents\codeblocks\cache\cache.c
+	"cachelab.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1358869790 source:c:\users\ljb79\dropbox\공부\시스템프로그래밍\lab\04 cachelab\cache\cachelab.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"cachelab.h"
+	<time.h>
+
+1341863844 c:\users\ljb79\dropbox\공부\시스템프로그래밍\lab\04 cachelab\cache\cachelab.h
+
+1478442555 source:c:\users\ljb79\dropbox\공부\시스템프로그래밍\lab\04 cachelab\cache\cache.c
+	"cachelab.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

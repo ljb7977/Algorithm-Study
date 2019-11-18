@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451300265 source:c:\users\jubin\documents\codeblocks\mst\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+

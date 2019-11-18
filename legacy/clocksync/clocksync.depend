@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453993667 source:c:\users\jubin\documents\codeblocks\clocksync\main.cpp
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+

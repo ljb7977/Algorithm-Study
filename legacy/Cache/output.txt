@@ -1,0 +1,26 @@
+L 10 miss 
+Set  0: valid: 0 tag:          0 count:  0  |  
+Set  1: valid: 1 tag:          0 count:  0  |  
+Set  2: valid: 0 tag:          0 count:  0  |  
+Set  3: valid: 0 tag:          0 count:  0  |  
+S 18 hit 
+Set  0: valid: 0 tag:          0 count:  0  |  
+Set  1: valid: 1 tag:          0 count:  1  |  
+Set  2: valid: 0 tag:          0 count:  0  |  
+Set  3: valid: 0 tag:          0 count:  0  |  
+L 20 miss 
+Set  0: valid: 0 tag:          0 count:  0  |  
+Set  1: valid: 1 tag:          0 count:  1  |  
+Set  2: valid: 1 tag:          0 count:  2  |  
+Set  3: valid: 0 tag:          0 count:  0  |  
+S 28 hit 
+Set  0: valid: 0 tag:          0 count:  0  |  
+Set  1: valid: 1 tag:          0 count:  1  |  
+Set  2: valid: 1 tag:          0 count:  3  |  
+Set  3: valid: 0 tag:          0 count:  0  |  
+S 50 miss eviction 
+Set  0: valid: 0 tag:          0 count:  0  |  
+Set  1: valid: 1 tag:          1 count:  4  |  
+Set  2: valid: 1 tag:          0 count:  3  |  
+Set  3: valid: 0 tag:          0 count:  0  |  
+hits:2 misses:3 evictions:1

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1493185888 source:c:\users\jb\documents\codeblocks\cm\testclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<sys/time.h>
+	"customer_manager.h"
+
+1493185240 c:\users\jb\documents\codeblocks\cm\customer_manager.h
+
+1493196148 source:c:\users\jb\documents\codeblocks\cm\main.c
+	<assert.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"customer_manager.h"
+

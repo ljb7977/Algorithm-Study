@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1510508008 source:c:\users\jb\documents\codeblocks\pj3\cs311.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"util.h"
+	"parse.h"
+	"run.h"
+
+1510573633 c:\users\jb\documents\codeblocks\pj3\util.h
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1510411618 c:\users\jb\documents\codeblocks\pj3\parse.h
+	<stdio.h>
+	"util.h"
+
+1510572398 c:\users\jb\documents\codeblocks\pj3\run.h
+	<stdio.h>
+	"util.h"
+
+1510411618 source:c:\users\jb\documents\codeblocks\pj3\parse.c
+	<stdio.h>
+	"util.h"
+	"parse.h"
+
+1510603988 source:c:\users\jb\documents\codeblocks\pj3\run.c
+	<stdio.h>
+	"util.h"
+	"run.h"
+
+1510411618 source:c:\users\jb\documents\codeblocks\pj3\util.c
+	"util.h"
+

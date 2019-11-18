@@ -1,13 +1,18 @@
-#include <cstdio>
-#include <cstring>
+//count to 10
+#include <iostream>
+#include <string>
 
-int main() {
-    int t, i;
-    int a, b;
-    scanf("%d", &t);
-    for(i=0;i<t;i++){
-        scanf("%d %d", &a, &b);
-        printf("%d\n", a+b);
-    }
-    return 0;
+int main()
+{
+  int i = 0;
+  
+  beginning:
+  if (i < 10) {
+      std::cout << ++i << std::endl;
+      goto beginning;
+  }
+  else goto end;
+
+  end:
+  return 0;
 }

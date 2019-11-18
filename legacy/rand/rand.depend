@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448468101 source:c:\users\jubin\documents\codeblocks\rand\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
