@@ -1,0 +1,41 @@
+using namespace std;
+
+const int N = 2e5;
+
+vector <int> a;
+int n;
+
+vector <long long> bigN(vector <int> a, int m) {
+    vector <long long> res(m);
+    long long cur = 0;
+    map <int, long long> mods;
+    for (int i = 0; i < m; ++i) {
+        int md = i % n;
+        mods[md] += a[i];
+        cur += mods[i % n];
+        res[i] = cur;
+    }
+    return res;
+}
+
+int main() {
+    ::ios_base::sync_with_stdio(false);
+    ::cin.tie(0);
+    cout.tie(0);
+    int m;
+    cin >> m >> n;
+    vector <int> v(m);
+    int sz = ((m + n - 1) / n * n);
+    for (int i = 0; i < m; ++i) {
+        cin >> v[i];
+    }
+    while (v.size() < sz) v.push_back(N + 1);
+    sort(v.begin(), v.end());
+    auto res = bigN(v, m);
+    for (auto x : res) {
+        cout << x << " ";
+    }
+
+
+    return 0;
+}
