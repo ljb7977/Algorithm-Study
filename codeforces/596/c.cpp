@@ -21,11 +21,12 @@ int main()
   int n, p;
   cin >> n >> p;
 
-  for(int i = 1; n - p*i > 0; ++i){
-    if(tobinary(n - p*i) == i){
+  for(int i = 1; n - p*i >= i && i <= 31; ++i){
+    if(tobinary(n - p*i) <= i){
       cout << i;
       return 0;
     }
   }
+  cout << "-1";
   return 0;
 }
